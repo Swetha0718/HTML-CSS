@@ -1,0 +1,10 @@
+ol li
+{
+list-style-type:upper-roman;
+visibility:hidden;
+}
+ul li
+{
+list-style-type:circle;
+display:inline;
+}

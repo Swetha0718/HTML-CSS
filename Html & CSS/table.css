@@ -1,0 +1,10 @@
+table{
+width:60%;
+height:60%;
+border:2px solid red;}
+th{
+border:2px solid green;
+}
+td{
+border:2px solid blue;
+}
